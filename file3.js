@@ -13,4 +13,5 @@ function Solve(val) {
  }
  function Back() {
     var ev = document.getElementById('res');
-    ev.value = ev.value.slice(0,-1);}
+    ev.value = ev.value.slice(0,-1);
+ }
